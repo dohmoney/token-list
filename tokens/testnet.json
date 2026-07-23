@@ -415,7 +415,7 @@
       "symbol": "WHO",
       "decimals": 18,
       "description": "Who are You",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WHO.jpg"
     }
   ]
 }
