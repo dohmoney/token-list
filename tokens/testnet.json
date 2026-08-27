@@ -16,6 +16,14 @@
       "decimals": 18,
       "description": "Decentralized Open Hub - Test",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
+    {
+      "id": "a14d9167e6b10b8087868694d32b68d6b31195e27fe618c625795f757b917800",
+      "name": "DOH USD Stable",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "description": "DOH USD stable",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ],
   "disabledTokens": [
