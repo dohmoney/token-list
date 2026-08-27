@@ -10,36 +10,12 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
-      "id": "d1bfedf61d1528d67ba7b3cd5a9584507c83eb4bb0add7a11cb9d32d68803a00",
+      "id": "835d4f43e7c3c21eae1ec0036434d5e0e6715c8f948195f133491ae99086cb00",
       "name": "DOH",
       "symbol": "DOH",
       "decimals": 18,
       "description": "Decentralized Open Hub - Test",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
-    },
-    {
-      "id": "ed0ebd1af5a60b394de7fe46edf5d3b363baf9ae543b8387d637adefd6b63c00",
-      "name": "Test USD",
-      "symbol": "tUSD",
-      "decimals": 18,
-      "description": "Test USD",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tUSD.png"
-    },
-    {
-      "id": "8b0993a9482bb84d04e13d99cea255c99c7e38a82d2c8c5ef950267f9db72900",
-      "name": "BOO",
-      "symbol": "BOO",
-      "decimals": 18,
-      "description": "BOO test token",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
-    },
-    {
-      "id": "96c03be6e0959f72798d36a9613870ddda648fba01c3cd8cba36a17936bbf300",
-      "name": "DOH USD Stable",
-      "symbol": "dUSD",
-      "decimals": 18,
-      "description": "DOH USD Stable (testnet)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ],
   "disabledTokens": [
